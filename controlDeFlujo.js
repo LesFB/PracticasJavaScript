@@ -61,3 +61,19 @@ if (IMC < 16){
 } else {
     console.log("Obesidad Hipermorbida");
 }
+
+
+let pisoDestino = prompt("Ingresa el piso al que quieras ir (1 al 3")
+switch(pisoDestino){
+
+    case "1":
+        console.log("vamos al piso 1");
+        break;
+
+    case "2":
+        console.log("vamos al piso 2");
+        break;
+
+    default:
+
+}
